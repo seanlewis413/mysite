@@ -1,0 +1,36 @@
+body {
+	background: none;
+}
+
+.darkblue{
+	background: #2b6991;
+	border-color: #999;
+}
+
+#inner {
+  width: 50%;
+  margin: 0 auto;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+}
+
+.top-title{
+	padding: 40px 0 0 0;
+}
+
+.blog-title{
+	padding: 100px 0 0 0;
+}
+
+.padded{
+	padding: 10px 0;
+}
+
+.pdfcontent{
+	margin: auto 0;
+    width: 50%;
+}
